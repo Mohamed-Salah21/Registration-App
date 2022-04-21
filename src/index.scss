@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: #e1e1eb;
+}
+@media (max-width: 768px) {
+  body {
+    background-color: #fff;
+  }
+}

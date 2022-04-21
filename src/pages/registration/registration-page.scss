@@ -1,0 +1,12 @@
+$purPink: linear-gradient(to right, #7f00ff, #e100ff);
+.registration-page {
+  height: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 768px) {
+  .registration-page {
+    background: #fff !important;
+  }
+}
